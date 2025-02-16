@@ -1,4 +1,4 @@
-# NestJS
+# NestJS Module Template
 
 A template for creating [NestJS](https://nestjs.com/) modules.
 
