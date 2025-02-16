@@ -4,6 +4,10 @@
 
 A template for creating [NestJS](https://nestjs.com/) modules.
 
+## License
+
+Licensed under the [MIT license](https://opensource.org/licenses/MIT) and is free for private or commercial projects.
+
 ## Introduction
 
 This template provides a solid foundation for building **standalone and reusable NestJS modules**. Designed specifically for **NestJS v11 applications**, it ensures seamless integration, scalability, and consistency across multiple projects.
