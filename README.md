@@ -10,4 +10,5 @@ This template includes the following tools and configurations:
 - TypeScript for static type checking.
 - Jest for unit testing, along with @nestjs/testing for testing utilities.
 - Prettier for code formatting.
+- ESLint for linting TypeScript code.
 - Husky for Git hooks.
