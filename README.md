@@ -29,3 +29,26 @@ This template includes the following additional tools and configurations:
 - [ESLint](https://eslint.org/) for linting TypeScript code to maintain code quality.
 - [Prettier](https://prettier.io/) for enforcing consistent code formatting across the codebase.
 - [Husky](https://typicode.github.io/husky/#/) for Git hooks to automate tasks such as linting, formatting, and testing before commits.
+
+## Getting Started
+
+If you like what you've seen so far and think this setup fits your needs, you can quickly get started by clicking the **Use this template** button at the top of the repository on GitHub. Once you've created your package, follow these steps to get up and running:
+
+1. **Clone Your Repository**
+
+   Clone your repository and navigate into the package directory:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_PACKAGE.git
+   cd YOUR_PACKAGE
+   ```
+
+2. **Install Dependencies**
+
+   Ensure you have the [required tools](#prerequisites) installed and then run:
+
+   ```bash
+   npm install
+   ```
+
+Now you can start building your NestJS modules - happy coding! 🎉
