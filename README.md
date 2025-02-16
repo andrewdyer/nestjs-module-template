@@ -9,3 +9,4 @@ This template includes the following tools and configurations:
 - NestJS for building efficient, reliable, and scalable server-side applications.
 - TypeScript for static type checking.
 - Prettier for code formatting.
+- Husky for Git hooks.
