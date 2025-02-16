@@ -2,6 +2,10 @@
 
 A template for creating [NestJS](https://nestjs.com/) modules.
 
+## Introduction
+
+This template provides a solid foundation for building **standalone and reusable NestJS modules**. With a focus on scalability and efficiency, it helps streamline development and ensures consistency across multiple projects.
+
 ## Features
 
 This template includes the following additional tools and configurations:
