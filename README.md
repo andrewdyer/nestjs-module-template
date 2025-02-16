@@ -10,7 +10,7 @@ Licensed under the [MIT license](https://opensource.org/licenses/MIT) and is fre
 
 ## Introduction
 
-This template provides a solid foundation for building **standalone and reusable NestJS modules**. Designed specifically for **NestJS v11 applications**, it ensures seamless integration, scalability, and consistency across multiple projects.
+This template provides a solid foundation for building **standalone and reusable NestJS modules**. Designed specifically for **NestJS v11 applications**, it ensures seamless integration, scalability, and consistency across multiple projects. By using this template, you can hit the ground running and save valuable time when creating reusable modules, as it includes pre-configured tools and best practices.
 
 ## Prerequisites
 
