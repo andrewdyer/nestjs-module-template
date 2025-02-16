@@ -4,11 +4,11 @@ A template for creating [NestJS](https://nestjs.com/) modules.
 
 ## Features
 
-This template includes the following tools and configurations:
+This template includes the following additional tools and configurations:
 
-- NestJS for building efficient, reliable, and scalable server-side applications.
-- TypeScript for static type checking.
-- Jest for unit testing, along with @nestjs/testing for testing utilities.
-- Prettier for code formatting.
-- ESLint for linting TypeScript code.
-- Husky for Git hooks.
+- [NestJS](https://nestjs.com/) for building efficient, scalable, and modular server-side applications.
+- [TypeScript](https://www.typescriptlang.org/) for static type checking and improved developer experience.
+- [Jest](https://jestjs.io/) for unit testing, along with [`@nestjs/testing`](https://docs.nestjs.com/fundamentals/testing) for testing utilities.
+- [ESLint](https://eslint.org/) for linting TypeScript code to maintain code quality.
+- [Prettier](https://prettier.io/) for enforcing consistent code formatting across the codebase.
+- [Husky](https://typicode.github.io/husky/#/) for Git hooks to automate tasks such as linting, formatting, and testing before commits.
