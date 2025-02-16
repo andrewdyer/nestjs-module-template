@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "build": "tsc --project tsconfig.json",
+    "format": "prettier --write .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -23,6 +24,7 @@
     "@nestjs/common": "^11.0.9",
     "@nestjs/core": "^11.0.9",
     "@types/node": "^22.13.4",
+    "prettier": "^3.5.1",
     "rxjs": "^7.8.1",
     "typescript": "^5.7.3"
   }
