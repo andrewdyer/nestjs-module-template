@@ -9,7 +9,8 @@
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "format": "prettier --write .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
@@ -28,11 +29,5 @@
     "prettier": "^3.5.1",
     "rxjs": "^7.8.1",
     "typescript": "^5.7.3"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test",
-      "pre-push": "npm test"
-    }
   }
 }
