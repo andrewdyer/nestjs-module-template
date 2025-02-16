@@ -1,3 +1,5 @@
+![NestJS Module Template](https://raw.githubusercontent.com/andrewdyer/andrewdyer/refs/heads/main/assets/images/covers/nestjs-module-template.png)
+
 # NestJS Module Template
 
 A template for creating [NestJS](https://nestjs.com/) modules.
