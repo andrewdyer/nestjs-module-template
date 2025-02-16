@@ -7,7 +7,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc --project tsconfig.json",
+    "build": "npm run clean && tsc --project tsconfig.json",
     "clean": "rimraf dist",
     "format": "prettier --write .",
     "lint": "eslint .",
