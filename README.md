@@ -32,7 +32,11 @@ This template includes the following additional tools and configurations:
 
 ## Getting Started
 
-If you like what you've seen so far and think this setup fits your needs, you can quickly get started by clicking the **Use this template** button at the top of the repository on GitHub. Once you've created your package, follow these steps to get up and running:
+If you like what you've seen so far and think this setup fits your needs, you can quickly get started by clicking the **Use this template** button at the top of the repository on GitHub.
+
+### Quick Start
+
+Once you've created your package, follow these steps to get up and running:
 
 1. **Clone Your Repository**
 
