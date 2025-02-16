@@ -1,6 +1,6 @@
 # NestJS
 
-A template for creating [NestJS](https://nestjs.com/) packages.
+A template for creating [NestJS](https://nestjs.com/) modules.
 
 ## Features
 
