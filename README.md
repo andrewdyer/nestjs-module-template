@@ -29,6 +29,7 @@ This template includes the following additional tools and configurations:
 - [ESLint](https://eslint.org/) for linting TypeScript code to maintain code quality.
 - [Prettier](https://prettier.io/) for enforcing consistent code formatting across the codebase.
 - [Husky](https://typicode.github.io/husky/#/) for Git hooks to automate tasks such as linting, formatting, and testing before commits.
+- CI (Continuous Integration) setup with [GitHub Actions](https://github.com/features/actions) for automated testing, building, type-checking, and publishing the package to npmjs.
 
 ## Getting Started
 
