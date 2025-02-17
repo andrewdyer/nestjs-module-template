@@ -57,3 +57,7 @@ Once you've created your package, follow these steps to get up and running:
    ```
 
 Now you can start building your NestJS modules - happy coding! 🎉
+
+## Contributing
+
+Before contributing to this package, please refer to the [contributing](./CONTRIBUTING.md) documentation.
