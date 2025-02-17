@@ -14,7 +14,9 @@
     "prepare": "husky",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage --no-cache --runInBand"
+    "test:coverage": "jest --coverage --no-cache --runInBand",
+    "yalc:publish": "yalc publish",
+    "yalc:push": "yalc push"
   },
   "keywords": [],
   "author": "",
